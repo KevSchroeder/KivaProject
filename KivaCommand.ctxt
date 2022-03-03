@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=KivaCommand
+comment0.text=\r\n\ Public\ enum\ for\ the\ commmands\r\n\ Designates\ actions\ for\ the\ Kiva\r\n
+comment1.params=directionKey
+comment1.target=KivaCommand(char)
+comment2.params=
+comment2.target=char\ getDirectionKey()
+numComments=3

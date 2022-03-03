@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Kiva
+comment0.text=\r\n\ Represents\ the\ actions\ of\ Kiva\r\n\ KivaCommand\ has\ the\ methods\ for\ how\ the\ Kiva\ moves\r\n\ @return\ getCurrentLocation\ with\ this.\ for\ the\ method\r\n\ @return\ true\ for\ Boolean\ carryingPod\ and\ isSuccessfullyDropped\ for\ action\ items\ that\ Kiva\ performs\r\n
+comment1.params=map
+comment1.target=Kiva(FloorMap)
+comment10.params=
+comment10.target=void\ incrementMotorLifetime()
+comment2.params=map\ currentLocation
+comment2.target=Kiva(FloorMap,\ edu.duke.Point)
+comment3.params=command
+comment3.target=void\ move(KivaCommand)
+comment4.params=expectedLocation
+comment4.target=void\ podCollision(edu.duke.Point)
+comment5.params=
+comment5.target=edu.duke.Point\ getCurrentLocation()
+comment6.params=
+comment6.target=FacingDirection\ getDirectionFacing()
+comment7.params=
+comment7.target=boolean\ isCarryingPod()
+comment8.params=
+comment8.target=boolean\ isSuccessfullyDropped()
+comment9.params=
+comment9.target=long\ getMotorLifetime()
+numComments=11
